@@ -5,6 +5,10 @@ ul {
   list-style: none;
 }
 
+.is-hidden {
+  display: none;
+}
+
 :root {
   --primary-text-color: #757575;
   --title-text-color: #212121;
