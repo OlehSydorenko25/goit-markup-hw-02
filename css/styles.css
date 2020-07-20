@@ -5,10 +5,6 @@ ul {
   list-style: none;
 }
 
-.is-hidden {
-  display: none;
-}
-
 :root {
   --primary-text-color: #757575;
   --title-text-color: #212121;
@@ -65,6 +61,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  font-style: normal;
 }
 
 .addres a:hover,
